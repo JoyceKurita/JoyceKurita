@@ -1,7 +1,7 @@
 # **Hi, I’m Joyce Kurita**
 
 
-##**Who am I?**
+## **Who am I?**
 
 • 💻 Data Scientist student
 
