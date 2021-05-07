@@ -3,7 +3,7 @@
 
 ### **Who am I?**
 
-- 💻 Data Scientist student
+- 💻 Data Science student
 - 📫 How to reach me ...
 
 <!---
