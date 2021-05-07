@@ -1,7 +1,10 @@
 # **Hi, I’m Joyce Kurita**
 
+
 ###Who am I?
+
 • 💻 Data Scientist student
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
